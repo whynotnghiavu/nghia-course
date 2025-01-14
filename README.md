@@ -113,69 +113,23 @@ Udemy - LeetCode in Java: Algorithms Coding Interview Questions 2024-5
 
 Udemy - Data Structures and Algorithms-Deep Dive into Core Concepts 2024-6
 
-
-
-
 Neetcode.io - Object Oriented Design Patterns 2024-1
-
-
-
-
-
-
-
 
 Udemy - Apache Airflow A Real-Time & Hands-On Course on Airflow
 
-
-
-
-
-
-
-
-
-
-
-
-
 Pluralsight - Docker and Kubernetes The Big Picture 2019-5
-
-
-
 
 Pluralsight - Docker Deep Dive 2023-9
 
-
-
-
-
-
-
 Pluralsight - Managing Docker on Linux Servers 2024-3
-
-
-
-
-
-
-
 
 Udemy - Docker Container Simplified 2024-6
 
-
-
 https://downloadlynet.ir/2020/20/8127/03/end-to-end-java-project-development-using-spring-boot/13/?#/8127-udemy-182528014913.html
-
-
 
 https://downloadlynet.ir/2024/30/116162/01/design-patterns-in-java-made-simple/21/?#/116162-udemy-182529013013.html
 
-
-
 https://downloadlynet.ir/2024/01/133691/08/java-design-patterns/00/?#/133691-javaspec-182530013213.html
-
-
 
 https://downloadlynet.ir/tag/Bharath-Thippireddy/
 
@@ -184,7 +138,3 @@ https://downloadlynet.ir/tag/heinz-m.-kabutz/
 https://downloadlynet.ir/tag/Richard-Chesterwood/
 
 https://downloadlynet.ir/tag/zoran-horvat/
-
-
-
-
